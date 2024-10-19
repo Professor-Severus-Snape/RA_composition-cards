@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/g7rrna6etvfbd90k?svg=true)](https://ci.appveyor.com/project/Professor-Severus-Snape/ra-composition-cards)
+
 # Карточки
 
 Вам необходимо реализовать компонент карточек, позволяющий использовать себя следующим образом:
